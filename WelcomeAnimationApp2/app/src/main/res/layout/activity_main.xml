@@ -14,7 +14,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="CAMERA SCREEN!"
+        android:text="CAMERA SCREEN which is in application"
         android:textSize="40dp"
         android:gravity="center"
         />
