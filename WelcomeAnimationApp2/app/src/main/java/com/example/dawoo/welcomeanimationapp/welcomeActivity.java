@@ -10,20 +10,23 @@ import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
-
+// Animation
 public class welcomeActivity extends AppCompatActivity {
-    ImageView imageView;
+    ImageView ViewIMG;
 
     @Override
+
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_welcome);
-        imageView=(ImageView)findViewById(R.id.imageView);
+        ViewIMG=(ImageView)findViewById(R.id.imageView);
         Animation animation = AnimationUtils.loadAnimation(getApplicationContext(),R.anim.welcome_animation);
 
-        imageView.setAnimation(animation);
+        ViewIMG.setAnimation(animation);
 
-        animation.setAnimationListener(new Animation.AnimationListener() {
+        animation.setAnimationListener(new Animation.AnimationListener()
+        // Added the Animation
+        {
             @Override
             public void onAnimationStart(Animation animation) {
 
@@ -36,7 +39,8 @@ public class welcomeActivity extends AppCompatActivity {
             public void onAnimationEnd(Animation animation) {
                 //startActivity(new Intent(getApplicationContext(),MainActivity.class));
                 finish();
-                startActivity(new Intent(getApplicationContext(),MainActivity.class));
+                // Finish the animation and open the camera which is in different branch
+                startActivity(new Intent(getApplicationContext() ,MainActivity.class));
             }
 
             @Override
