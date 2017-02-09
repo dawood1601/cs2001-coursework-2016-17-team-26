@@ -14,7 +14,7 @@ import com.example.dawoo.gallery.R;
 
 public class MainActivity extends Activity {
 
-    private static int RESULT_LOAD_IMAGE = 1;
+    private static int LoadImage = 1;
 
 
     @Override
@@ -32,18 +32,18 @@ public class MainActivity extends Activity {
                         Intent.ACTION_PICK,
                         android.provider.MediaStore.Images.Media.EXTERNAL_CONTENT_URI);
 
-                startActivityForResult(i, RESULT_LOAD_IMAGE);
+                startActivityForResult(i, LoadImage);
             }
         });
     }
 
 
     @Override
-    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-        super.onActivityResult(requestCode, resultCode, data);
+    protected void onActivityResult(int Code_req, int ExcResult, Intent Mydata) {
+        super.onActivityResult(Code_req , ExcResult, Mydata);
 
-        if (requestCode == RESULT_LOAD_IMAGE && resultCode == RESULT_OK && null != data) {
-            Uri selectedImage = data.getData();
+        if (Code_req == LoadImage && ExcResult == RESULT_OK && null != Mydata) {
+            Uri selectedImage = Mydata.getData();
             String[] filePathColumn = { MediaStore.Images.Media.DATA };
 
             Cursor cursor = getContentResolver().query(selectedImage,
@@ -54,10 +54,13 @@ public class MainActivity extends Activity {
             String picturePath = cursor.getString(columnIndex);
             cursor.close();
 
-            ImageView imageView = (ImageView) findViewById(R.id.imgView);
-            imageView.setImageURI(selectedImage);
+            ImageView View_Image = (ImageView) findViewById(R.id.imgView);
+            View_Image.setImageURI(selectedImage);
         }
 
+        
+        
+        
 
     }
 }
