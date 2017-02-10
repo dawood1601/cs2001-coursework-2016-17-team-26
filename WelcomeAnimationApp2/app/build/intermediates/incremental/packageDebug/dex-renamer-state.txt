@@ -1,0 +1,7 @@
+#Fri Jan 27 18:18:32 GMT 2017
+base.0=C\:\\Users\\dawoo\\AndroidStudioProjects\\WelcomeAnimationApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_171dcdf3bfa650c4b1fef04183bf3f8c83743dd8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\dawoo\\AndroidStudioProjects\\WelcomeAnimationApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bfef03fabe5ee969cab33dc624ab60153f456ca9\\classes.dex
+base.1=C\:\\Users\\dawoo\\AndroidStudioProjects\\WelcomeAnimationApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bfef03fabe5ee969cab33dc624ab60153f456ca9
+file.0=C\:\\Users\\dawoo\\AndroidStudioProjects\\WelcomeAnimationApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_171dcdf3bfa650c4b1fef04183bf3f8c83743dd8\\classes.dex

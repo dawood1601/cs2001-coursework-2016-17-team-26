@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_e8332b9534e8bdf9829f662adeae7d9fbf8579f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dawoo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_94960ff51fc4b27849ff9f7461b9a2330d602cc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_04928acbf58be678adf0489985ba920ca370b58f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c29c3c07dc7d9d568335b219d7c05962b4dea46f">
+        <dex dex="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bfef03fabe5ee969cab33dc624ab60153f456ca9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_d710145f15aa03c49111a1de6fd571cc8b70f5e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_9e7e75bfefe8731a42d41135ce6d5e3ee79b2635\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_69668acaa58ce330011d43c4a3505505a66431b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_d91f74766a5ba2c40824ba78f250a761d7f7c1d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_740e3fbe55079130f1828bff7a73b884826ac47a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_bfa812fc04ef4a88dcbbcac1ebce8789f20b651e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_881f906bda4704dfb2389d99d152b2ea741054ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_8682a07a59a211872239ac5f9155289a8f877274\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_2c98475eb13b62e18c3e4381decc2a6aae359325\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="802c0406ec124d4cdc1612ad399edc115678b27d">
+        <dex dex="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_171dcdf3bfa650c4b1fef04183bf3f8c83743dd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\dawoo\AndroidStudioProjects\WelcomeAnimationApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_0f96504381cc6fa5ead8b6de38cde180c25224b8\classes.dex" />
+    </item>
+
+</items>
