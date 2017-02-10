@@ -36,6 +36,9 @@
         android:layout_marginBottom="35dp"
         android:visibility="gone"/>
 
+    
+    
+     <!-- This is the button which is used to retry -->
     <Button
         android:id="@+id/btnUpload"
         android:layout_width="wrap_content"
